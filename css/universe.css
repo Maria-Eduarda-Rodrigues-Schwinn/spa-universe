@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("../images/mountains-universe02.png");
+}
+
+.menu > a:nth-of-type(2) {
+  color: #fff;
+  font-weight: 700;
+}
+
+.container {
+  color: #E1E1E6;
+  font-family: "Roboto", sans-serif;
+
+  margin-top: 100px;
+  max-width: 650px;
+}
+
+.container h1 {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+.container p {
+  font-size: 18px;
+  line-height: 160%;
+}
