@@ -1,0 +1,15 @@
+{
+  "name": "spa-universe",
+  "version": "1.0.0",
+  "description": "Aplicação utilizando conceitos de SPA",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "keywords": [],
+  "author": "Maria Eduarda Schwinn",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "2.6.1"
+  }
+}
